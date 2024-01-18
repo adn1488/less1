@@ -15,3 +15,12 @@ Windows:
 ```sh
 dir
 ```
+
+Удаление файла windows:
+```sh
+del<file_name>
+```
+```sh
+rm<File_name>
+```
+linux,macOs
