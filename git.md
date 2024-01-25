@@ -33,3 +33,8 @@ git add somefile.js
   ```
   git merge
   ```
+  Отображение всех веток 
+  ```
+  git branch
+  ```
+  
