@@ -48,6 +48,6 @@ git branch <имя_ветки>
   ### Создание 4 веток и конфликта !
   с помошью команды 
   ```sh
-git branch <new_texte>
+git branch <Name_txt>
 ```
 я создал ветку 
