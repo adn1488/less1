@@ -23,11 +23,7 @@ git add somefile.js
   перемещение по веткам
 
   ```
-<<<<<<< HEAD
-  git checkout <branch_name>
-=======
-  git checkout <имя ветки>
->>>>>>> branch_comand
+  git checkout <имя_ветки>
   ```
   Восстановить файлы рабочего дерева, не подготовленные к коммиту.
 
