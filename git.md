@@ -44,4 +44,9 @@ git add somefile.js
 git branch <имя_ветки>
 ```
 
-  
+  ### Создание 4 веток и конфликта !
+  с помошью команды 
+  ```sh
+git branch <new_texte>
+```
+я создал ветку 
