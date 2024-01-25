@@ -28,4 +28,8 @@ git add somefile.js
 
   Добавили картинку в инструкцию
   ![apple](apple.ipg.jpg)
-  
+
+  # Обьединение ветотк
+  ```
+  git merge
+  ```
