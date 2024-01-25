@@ -52,6 +52,6 @@ git branch <Name_txt>
 ```
 я создал ветку 
 * 2 Создали вторую ветку <new_Text>
-* 3 Cоздали третью ветку <Textnew>
+* 3 cjplfkb tot <Textnew>
 
 
